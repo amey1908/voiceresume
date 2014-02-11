@@ -58,8 +58,13 @@ class VoiceResumeController < ApplicationController
   # - repeats the menu if caller pressed any other digit besides 2 or 3
   # - says the directions if they pressed 2 and redirect back to menu
   def directions
-    if params['Digits'] == '5'
+    if params['Digits'] == '6'
       redirect_to :action => 'goodbye'
+      return
+    end
+
+    if params['Digits'] == '5'
+      redirect_to :action => 'contact'
       return
     end
 
@@ -88,6 +93,11 @@ class VoiceResumeController < ApplicationController
   def goodbye
     @redirect_to = BASE_URL + '/reminder'
     render :action => "goodbye.xml.builder", :layout => false
+  end
+
+  def contact
+    @redirect_to = BASE_URL + '/reminder'
+    render :action => "contact.xml.builder", :layout => false
   end
 
   def fit
