@@ -26,7 +26,7 @@
       <file leaf-file-name="voice_resume_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="59" selection-start="360" selection-end="360" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
+            <state line="10" column="52" selection-start="353" selection-end="353" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
@@ -618,7 +618,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="59" selection-start="360" selection-end="360" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
+        <state line="10" column="52" selection-start="353" selection-end="353" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
           <folding />
         </state>
       </provider>
