@@ -1,0 +1,5 @@
+xml.instruct!
+xml.Response do
+  xml.Say "Amay Kulkarni’s professional qualification: Amay has 2 years of startup experience and 5 years of consulting experience. Over the past 7 months, Amay was involved in his own startup, Talentology, which is gamification of personality assessments for hiring. During this time, he managed and developed the product and partnered with 2 big customers. He used data to drive his product features. He is inspired by Lean Startup methodology and would love to use the concepts at his next workplace. He has developed big S.A.P. systems during his consulting days and has been involved in understanding business requirements and managing development teams to customize product features. He would love to use his experience in consulting, and passion for technology and entrepreneurship, to build products at Twilio."
+  xml.Redirect @redirect_to
+end
