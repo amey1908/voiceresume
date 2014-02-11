@@ -35,7 +35,7 @@
       <file leaf-file-name="contact.xml.builder" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/voice_resume/contact.xml.builder">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="146" selection-start="176" selection-end="176" vertical-scroll-proportion="0.077319585" vertical-offset="0" max-vertical-offset="388">
+            <state line="2" column="166" selection-start="196" selection-end="196" vertical-scroll-proportion="0.077319585" vertical-offset="0" max-vertical-offset="388">
               <folding />
             </state>
           </provider>
@@ -677,7 +677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/voice_resume/contact.xml.builder">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="146" selection-start="176" selection-end="176" vertical-scroll-proportion="0.077319585" vertical-offset="0" max-vertical-offset="388">
+        <state line="2" column="166" selection-start="196" selection-end="196" vertical-scroll-proportion="0.077319585" vertical-offset="0" max-vertical-offset="388">
           <folding />
         </state>
       </provider>
