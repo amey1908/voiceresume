@@ -53,7 +53,16 @@
       <file leaf-file-name="fit.xml.builder" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/voice_resume/fit.xml.builder">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="447" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0729927" vertical-offset="0" max-vertical-offset="411">
+            <state line="2" column="462" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0729927" vertical-offset="0" max-vertical-offset="411">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="goodbye.xml.builder" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/voice_resume/goodbye.xml.builder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -87,6 +96,7 @@
         <option value="$PROJECT_DIR$/app/views/voice_resume/reminder.xml.builder" />
         <option value="$PROJECT_DIR$/app/views/voice_resume/profession.xml.builder" />
         <option value="$PROJECT_DIR$/app/views/voice_resume/education.xml.builder" />
+        <option value="$PROJECT_DIR$/app/views/voice_resume/goodbye.xml.builder" />
         <option value="$PROJECT_DIR$/app/views/voice_resume/fit.xml.builder" />
       </list>
     </option>
@@ -641,9 +651,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/voice_resume/goodbye.xml.builder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="25" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/voice_resume/fit.xml.builder">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="447" selection-start="477" selection-end="477" vertical-scroll-proportion="0.0729927" vertical-offset="0" max-vertical-offset="411">
+        <state line="2" column="462" selection-start="492" selection-end="492" vertical-scroll-proportion="0.0729927" vertical-offset="0" max-vertical-offset="411">
           <folding />
         </state>
       </provider>
