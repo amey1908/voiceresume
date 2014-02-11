@@ -26,7 +26,7 @@
       <file leaf-file-name="voice_resume_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="322" selection-end="322" vertical-scroll-proportion="0.3206651" vertical-offset="15" max-vertical-offset="1620">
+            <state line="10" column="54" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
@@ -586,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/voice_resume/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="708" selection-end="708" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375">
@@ -600,9 +593,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="322" selection-end="322" vertical-scroll-proportion="0.3206651" vertical-offset="15" max-vertical-offset="1620">
+        <state line="10" column="54" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1620">
           <folding />
         </state>
       </provider>
