@@ -89,7 +89,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/voice_resume/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="259" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.48387095" vertical-offset="210" max-vertical-offset="840">
+            <state line="34" column="254" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.1319648" vertical-offset="465" max-vertical-offset="840">
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -710,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/voice_resume/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="259" selection-start="1137" selection-end="1137" vertical-scroll-proportion="0.48387095" vertical-offset="210" max-vertical-offset="840">
+        <state line="34" column="254" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.1319648" vertical-offset="465" max-vertical-offset="840">
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
