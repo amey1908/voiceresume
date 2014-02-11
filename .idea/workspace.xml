@@ -23,10 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="voice_resume_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="voice_resume_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="52" selection-start="353" selection-end="353" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
+            <state line="10" column="32" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.769231" vertical-offset="0" max-vertical-offset="1620">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="education.xml.builder" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/voice_resume/education.xml.builder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="394" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fit.xml.builder" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/voice_resume/fit.xml.builder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="561" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0729927" vertical-offset="0" max-vertical-offset="411">
               <folding />
             </state>
           </provider>
@@ -83,7 +101,9 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/voice_resume/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/voice_resume/education.xml.builder" />
         <option value="$PROJECT_DIR$/app/controllers/voice_resume_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/voice_resume/fit.xml.builder" />
       </list>
     </option>
   </component>
@@ -616,9 +636,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/voice_resume/education.xml.builder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="394" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="52" selection-start="353" selection-end="353" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
+        <state line="10" column="32" selection-start="333" selection-end="333" vertical-scroll-proportion="-5.769231" vertical-offset="0" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/voice_resume/fit.xml.builder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="561" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0729927" vertical-offset="0" max-vertical-offset="411">
           <folding />
         </state>
       </provider>
