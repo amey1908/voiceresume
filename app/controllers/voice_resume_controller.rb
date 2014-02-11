@@ -8,7 +8,7 @@ class VoiceResumeController < ApplicationController
   ACCOUNT_TOKEN = 'd91c622c0ed9cbb3443c8775f6bb8611'
 
   # base URL of this application
-  BASE_URL = "http://voice-resume.herokuapp.com/voice_resume"
+  BASE_URL = "http://http://stark-fjord-6081.herokuapp.com//voice_resume"
   #BASE_URL = "localhost:3000/voice_resume"
 
   # Outgoing Caller ID you have previously validated with Twilio

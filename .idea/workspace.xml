@@ -26,7 +26,16 @@
       <file leaf-file-name="voice_resume_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="54" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1620">
+            <state line="10" column="59" selection-start="360" selection-end="360" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reminder.xml.builder" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/voice_resume/reminder.xml.builder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -586,13 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/voice_resume/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="708" selection-end="708" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="20" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="960">
@@ -600,9 +602,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/voice_resume/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="708" selection-end="708" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/voice_resume/reminder.xml.builder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/voice_resume_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="54" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1620">
+        <state line="10" column="59" selection-start="360" selection-end="360" vertical-scroll-proportion="0.35629454" vertical-offset="0" max-vertical-offset="1620">
           <folding />
         </state>
       </provider>
